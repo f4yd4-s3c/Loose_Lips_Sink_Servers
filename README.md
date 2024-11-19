@@ -1,6 +1,7 @@
 # Loose_Lips_Sink_Servers
 
 -1- http://<ip>:1337/index.html
+
 -2- login with default creds, empireadmin : password123
 -3- read discusions
 -4- read BD65G2W agent command_outputs
